@@ -19,7 +19,6 @@ Micron
 Kioxia
 Nanya
 Sandisk
-Qualcom
 
 半导体
 半导体测试
@@ -30,61 +29,15 @@ ATE
 
 3I/ATLAS
 
-Tesla
 Starship
 Spacex
-特斯拉
-马斯克
-Grok
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
 
 Intel
 AMD
 
-谷歌
-google
-Android
 gemini
-deepmind
 
 Arch Linux
 
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-ai
-AI Chips
-!gai
-人工智能
-
-机器人
-
-国产
-中国
-美国
-日本
-韩国
-
 芯片
 光刻机
-
-科技
-
-核能
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
