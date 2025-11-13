@@ -1,18 +1,23 @@
 Teradyne
 Advantest
+
 CXMT
 YMTC
+
 DRAM
 NAND
 NAND Flash
+
 LPDDR6
 LPDDR5x
 DDR5
 GDDR
+
 HBM
 HBM3
 HBM3e
 HBM4
+
 Samsung
 Hynix
 Micron
