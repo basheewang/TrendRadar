@@ -1,8 +1,12 @@
 Teradyne
 Advantest
+泰瑞达
+爱德万
 
 CXMT
 YMTC
+长江存储
+长鑫
 
 DRAM
 NAND
