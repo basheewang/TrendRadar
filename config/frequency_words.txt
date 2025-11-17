@@ -50,3 +50,6 @@ Arch Linux
 
 芯片
 光刻机
+
+一加
+Oneplus
